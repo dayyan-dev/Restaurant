@@ -16,7 +16,7 @@ A modern and responsive restaurant website built using **HTML5** and **CSS3**. T
 
 ## 🚀 Live Demo
 
-🔗 Live Website: https://your-live-demo-link.com
+🔗 Live Website: https://dayyan-dev.github.io/Restaurant/
 
 ---
 

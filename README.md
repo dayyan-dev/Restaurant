@@ -10,7 +10,6 @@ A modern and responsive restaurant website built using **HTML5** and **CSS3**. T
 
 > Add your project screenshot here
 
-![Yummy Website](images/homepage.png)
 
 ---
 
@@ -93,26 +92,6 @@ This project helped me practice:
 - Login System
 - Backend Integration
 - Payment Gateway
-
----
-
-## 📷 Screenshots
-
-### Home Page
-
-![Home](images/homepage.png)
-
-### Menu
-
-![Menu](images/menu.png)
-
-### Gallery
-
-![Gallery](images/gallery.png)
-
-### Contact
-
-![Contact](images/contact.png)
 
 ---
 
